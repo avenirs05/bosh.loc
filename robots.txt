@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /admin/
+Disallow: /cdn-cgi/
+Disallow: /data/
+Disallow: /*?*
+Disallow: /?*
+Disallow: /*.php*
+Disallow: /*.html*
+Host: https://www.bosch-service-russian.ru
+Sitemap: https://www.bosch-service-russian.ru/sitemap.xml
